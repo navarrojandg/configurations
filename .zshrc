@@ -1,0 +1,13 @@
+#git aliases
+alias gpull="git pull"
+alias gpush="git push"
+alias gpushf="git push -f"
+alias gadd="git add"
+alias gaddi="git add -i"
+alias glog="git log"
+alias gdiff="git diff"
+alias gdiffc="git diff --cached"
+alias gstat="git status"
+alias gcom="git commit"
+alias gcomma="git commit -am"
+alias gclo="git clone"
