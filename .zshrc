@@ -13,3 +13,6 @@ alias gcomma="git commit -am"
 alias gclo="git clone"
 alias gco="git checkout"
 alias gcob="git checkout -b"
+alias gbr="git branch"
+alias gbra="git branch -a"
+
